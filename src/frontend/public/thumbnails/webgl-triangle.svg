@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150">
+  <rect fill="#1a1a2e" width="200" height="150"/>
+  <polygon points="100,25 40,125 160,125" fill="#6366F1" opacity="0.9"/>
+  <polygon points="100,35 45,120 155,120" fill="#818CF8" opacity="0.4"/>
+  <text x="100" y="148" text-anchor="middle" fill="#6366F1" font-size="10" font-family="monospace">VBO/VAO/Shader</text>
+</svg>
