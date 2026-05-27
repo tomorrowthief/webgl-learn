@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150">
+  <rect fill="#1a1a2e" width="200" height="150"/>
+  <rect x="30" y="30" width="60" height="60" fill="#6366F1"/>
+  <rect x="30" y="30" width="30" height="30" fill="#818CF8"/>
+  <rect x="60" y="60" width="30" height="30" fill="#818CF8"/>
+  <rect x="110" y="30" width="60" height="60" fill="#8080ff"/>
+  <rect x="110" y="60" width="60" height="30" fill="#808000"/>
+  <circle cx="100" cy="125" r="18" fill="#6366F1"/>
+  <circle cx="94" cy="119" r="5" fill="#818CF8" opacity="0.5"/>
+  <text x="60" y="105" fill="#888" font-size="8" text-anchor="middle" font-family="monospace">Diffuse</text>
+  <text x="140" y="105" fill="#888" font-size="8" text-anchor="middle" font-family="monospace">Normal</text>
+</svg>

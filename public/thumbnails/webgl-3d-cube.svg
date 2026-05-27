@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150">
+  <rect fill="#1a1a2e" width="200" height="150"/>
+  <polygon points="100,30 155,60 155,105 100,135" fill="#6366F1" opacity="0.8"/>
+  <polygon points="100,30 155,60 100,90 45,60" fill="#818CF8" opacity="0.6"/>
+  <polygon points="100,30 45,60 45,105 100,135" fill="#22D3EE" opacity="0.5"/>
+  <text x="100" y="148" text-anchor="middle" fill="#6366F1" font-size="10" font-family="monospace">MVP Matrix</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150">
+  <rect fill="#1a1a2e" width="200" height="150"/>
+  <circle cx="100" cy="75" r="40" fill="#6366F1"/>
+  <path d="M60,75 Q70,60 80,75 Q90,90 100,75 Q110,60 120,75 Q130,90 140,75" stroke="#22D3EE" stroke-width="1.5" fill="none"/>
+  <path d="M65,65 Q75,50 85,65 Q95,80 105,65 Q115,50 125,65 Q135,80 145,65" stroke="#22D3EE" stroke-width="1" fill="none" opacity="0.5"/>
+  <text x="40" y="30" fill="#4ECDC4" font-size="7" font-family="monospace">vertexShader</text>
+  <text x="130" y="30" fill="#FF6B6B" font-size="7" font-family="monospace">fragmentShader</text>
+</svg>

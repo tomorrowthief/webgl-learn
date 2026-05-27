@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150">
+  <rect fill="#1a1a2e" width="200" height="150"/>
+  <polygon points="100,30 140,60 140,100 100,120 60,100 60,60" fill="none" stroke="#6366F1" stroke-width="1.5"/>
+  <line x1="100" y1="30" x2="100" y2="120" stroke="#6366F1" stroke-width="0.5" opacity="0.3"/>
+  <line x1="60" y1="60" x2="140" y2="100" stroke="#6366F1" stroke-width="0.5" opacity="0.3"/>
+  <line x1="140" y1="60" x2="60" y2="100" stroke="#6366F1" stroke-width="0.5" opacity="0.3"/>
+  <path d="M30,75 L50,75 L45,70 M50,75 L45,80" stroke="#22D3EE" stroke-width="2" fill="none"/>
+  <text x="90" y="80" fill="#22D3EE" font-size="8" font-family="monospace">.gltf</text>
+</svg>
